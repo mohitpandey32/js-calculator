@@ -1,3 +1,4 @@
+
 let input = document.getElementById('num1');
 let buttons = document.querySelectorAll('button');
 
